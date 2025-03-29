@@ -1,4 +1,4 @@
-import 'package:shared/shared.dart';
+import 'package:shared_utilities/shared_utilities.dart';
 
 extension ExceptionX on Exception {
   String get message => toString();

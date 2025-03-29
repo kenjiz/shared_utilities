@@ -1,5 +1,5 @@
 import 'package:flutter/foundation.dart';
-import 'package:shared/shared.dart';
+import 'package:shared_utilities/shared_utilities.dart';
 
 class GlobalErrorHandler {
   const GlobalErrorHandler._();
